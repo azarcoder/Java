@@ -26,3 +26,5 @@ class Main
 	    
 }
 }
+//online
+System.out.print(s.charAt(0)!='0' && s.contains('0')?"Duck":"Not");
